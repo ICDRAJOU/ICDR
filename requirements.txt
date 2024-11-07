@@ -1,0 +1,12 @@
+torch==2.4.0
+transformers
+numpy
+Pillow>=6.2.2
+gradio
+scikit-image
+scikit-video
+matplotlib
+tqdm
+git+https://github.com/openai/CLIP.git
+-f https://download.openmmlab.com/mmcv/dist/cu121/torch2.4/index.html
+mmcv==2.2.0
